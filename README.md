@@ -3,7 +3,7 @@ khanbank huulga
 
 
 ###   Requirements
-
+Intellij Idea
 
 
 ---All in Maven--- </br>
